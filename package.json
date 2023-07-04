@@ -1,0 +1,24 @@
+{
+  "name": "@pokeponz/ytdl-sub",
+  "version": "1.0.0",
+  "description": "ytdl-sub initial",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pokeponz/ytdl-sub.git"
+  },
+  "author": "jmbannon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pokeponz/ytdl-sub/issues"
+  },
+  "homepage": "https://github.com/pokeponz/ytdl-sub#readme"
+}
