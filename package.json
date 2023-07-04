@@ -15,6 +15,9 @@
     "type": "git",
     "url": "git+https://github.com/pokeponz/ytdl-sub.git"
   },
+  "publishconfig": {
+	  "@<em>pokeponz</em>:registry": "https://npm.pkg.github.com"
+  }
   "author": "jmbannon",
   "license": "ISC",
   "bugs": {
@@ -22,3 +25,4 @@
   },
   "homepage": "https://github.com/pokeponz/ytdl-sub#readme"
 }
+ 
